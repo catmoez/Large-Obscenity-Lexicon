@@ -13,9 +13,9 @@ Rank reflects frequency rank in the FastText vocabulary. Words can be re-tagged 
 
 From Preda's 'Wall Street Bets' dataset, see (regularly) flagged words highlighted in red and 'mild' flagged words in orange.
 
-![Reddit Wall Street Bets forum, Example 1](https://github.com/catmoez/Large-Obscenity-Lexicon/blob/main/wsb titles swear countover3 censored.png?raw=true)
+![Reddit Wall Street Bets forum, Example 1](https://github.com/catmoez/Large-Obscenity-Lexicon/blob/main/wsb_titles_censored1.png?raw=true)
 
-![Reddit Wall Street Bets forum, Example 2](https://github.com/catmoez/Large-Obscenity-Lexicon/blob/main/wsb titles swear countover3 censored 2.png?raw=true)
+![Reddit Wall Street Bets forum, Example 2](https://github.com/catmoez/Large-Obscenity-Lexicon/blob/main/wsb_titles_censored2.png?raw=true)
 
 # Uses
 
